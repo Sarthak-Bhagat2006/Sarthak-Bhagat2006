@@ -10,7 +10,6 @@ Connection: keep-alive
     "name": "Sarthak Bhagat",
     "role": "Full Stack Web Developer",
     "location": "Pune, India",
-    "education": "ECE Undergraduate",
     "stack": "MERN",
     "focus": [
       "Building real-world web applications",
@@ -33,188 +32,102 @@ Connection: keep-alive
 
 <h3 align="right">Tech Stack</h3>
 <table width="100%">
-	<thead>
-		<tr>
-			<th align="left" width="25%">Domain</th>
-			<th align="left" width="25%">Specialization</th>
-			<th align="right">Technologies</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td><b>Core Programming</b></td>
-			<td>Problem Solving</td>
-			<td align="right">
-				<img
-					src="https://img.shields.io/badge/Java-151b23?style=for-the-badge&logo=openjdk&logoColor=ED8B00"
-					alt="Java"
-				/>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3"><b>Frontend Development</b></td>
-			<td>Frameworks & State</td>
-			<td align="right">
-				<img
-          src="https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=white"
-          alt="EJS"
-          />
-				<img
-					src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"
-					alt="React"
-				/>
-				<img
-					src="https://img.shields.io/badge/React_Router-0d1117?style=for-the-badge&logo=react-router"
-					alt="React Router"
-				/>
-			</td>
-		</tr>
-		<tr>
-			<td>UI Libraries & Styling</td>
-			<td align="right">
-        <img
-          src="https://img.shields.io/badge/CSS3-151b23?style=for-the-badge&logo=css3&logoColor=1572B6"
-          alt="CSS3"
-        />
-				<img
-					src="https://img.shields.io/badge/TailwindCSS-151b23?style=for-the-badge&logo=tailwindcss"
-					alt="Tailwind CSS"
-				/>
-				<img
-					src="https://img.shields.io/badge/MUI-151b23?style=for-the-badge&logo=mui"
-					alt="MUI"
-				/>
-				<img
-					src="https://img.shields.io/badge/bootstrap-151b23?style=for-the-badge&logo=bootstrap"
-					alt="Bootstrap"
-				/>
-			</td>
-		</tr>
-		<tr>
-			<td>Animation</td>
-			<td align="right">
-				<img
-          src="https://img.shields.io/badge/Chart.js-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384"
-          alt="Chart.js"
-          />
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3"><b>Backend & Data</b></td>
-			<td>Frameworks & APIs</td>
-			<td align="right">
-				<img
-					src="https://img.shields.io/badge/Node.js-151b23?style=for-the-badge&logo=node.js"
-					alt="Node.js"
-				/>
-				<img
-					src="https://img.shields.io/badge/Express.js-151b23.svg?style=for-the-badge&logo=express"
-					alt="Express.js"
-				/>
-			</td>
-		</tr>
-		<tr>
-			<td>Databases and ORMs</td>
-			<td align="right">
-				<img
-					src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql"
-					alt="PostgreSQL"
-				/>
-				<img
-					src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb"
-					alt="MongoDB"
-				/>
-				<img
-					src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql"
-					alt="MySQL"
-				/>
-			</td>
-		</tr>
-		<tr>
-			<td><b>Authentication</b></td>
-			<td>Identity Management</td>
-			<td align="right">
-				<img
-					src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens"
-					alt="JWT"
-				/>
-				<img
-        src="https://img.shields.io/badge/Passport.js-0d1117?style=for-the-badge&logo=passport&logoColor=34E27A"
-        alt="Passport.js"
-        />
-			</td>
-		</tr>
-			<td>Deployment</td>
-			<td align="right">
-				<img
-					src="https://img.shields.io/badge/Netlify-0d1117.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
-					alt="Netlify"
-				/>
-				<img
-					src="https://img.shields.io/badge/Render-0d1117.svg?style=for-the-badge&logo=render&logoColor=white"
-					alt="Render"
-				/>
-				<img
-					src="https://img.shields.io/badge/GitHub%20Pages-0d1117?style=for-the-badge&logo=github&logoColor=white"
-					alt="GitHub Pages"
-				/>
-			</td>
-		</tr>
-		<tr>
-			<td>API & Dev Tools</td>
-			<td align="right">
-				<img
-					src="https://img.shields.io/badge/Postman-151b23?style=for-the-badge&logo=postman"
-					alt="Postman"
-				/>
-				<img
-  src="https://img.shields.io/badge/Finnhub-151b23?style=for-the-badge&logoColor=00E676"
-  alt="Finnhub"
-/>
-				<img
-  src="https://img.shields.io/badge/Mapbox-151b23?style=for-the-badge&logo=mapbox&logoColor=white"
-  alt="Mapbox"
-/>
-				<img
-  src="https://img.shields.io/badge/Gemma%20AI-151b23?style=for-the-badge&logo=google&logoColor=white"
-  alt="Gemma AI"
- />
-			</td>
-		</tr>
-	</tbody>
+  <thead>
+    <tr>
+      <th align="left" width="25%">Domain</th>
+      <th align="left" width="25%">Specialization</th>
+      <th align="right">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Core Programming</b></td>
+      <td>Problem Solving</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/Java-151b23?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>Frontend Development</b></td>
+      <td>Frameworks & State</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS"/>
+        <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/React_Router-0d1117?style=for-the-badge&logo=react-router" alt="React Router"/>
+      </td>
+    </tr>
+    <tr>
+      <td>UI Libraries & Styling</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/CSS3-151b23?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-151b23?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/MUI-151b23?style=for-the-badge&logo=mui" alt="MUI"/>
+        <img src="https://img.shields.io/badge/bootstrap-151b23?style=for-the-badge&logo=bootstrap" alt="Bootstrap"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Animation</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/Chart.js-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384" alt="Chart.js"/>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3"><b>Backend & Data</b></td>
+      <td>Frameworks & APIs</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/Node.js-151b23?style=for-the-badge&logo=node.js" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-151b23.svg?style=for-the-badge&logo=express" alt="Express.js"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Databases and ORMs</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql" alt="MySQL"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Authentication</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
+        <img src="https://img.shields.io/badge/Passport.js-0d1117?style=for-the-badge&logo=passport&logoColor=34E27A" alt="Passport.js"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Deployment</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/Netlify-0d1117.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
+        <img src="https://img.shields.io/badge/Render-0d1117.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+        <img src="https://img.shields.io/badge/GitHub%20Pages-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+      </td>
+    </tr>
+    <tr>
+      <td>API & Dev Tools</td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/Postman-151b23?style=for-the-badge&logo=postman" alt="Postman"/>
+        <img src="https://img.shields.io/badge/Finnhub-151b23?style=for-the-badge&logoColor=00E676" alt="Finnhub"/>
+        <img src="https://img.shields.io/badge/Mapbox-151b23?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox"/>
+        <img src="https://img.shields.io/badge/Gemma%20AI-151b23?style=for-the-badge&logo=google&logoColor=white" alt="Gemma AI"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ### My Stats
 
-
 <p align="center">
-  <!-- GitHub Overview -->
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/Sarthak-Bhagat2006/README-Stats/master/generated/overview.svg"
-  />
-
-  <!-- GitHub Languages -->
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/Sarthak-Bhagat2006/README-Stats/master/generated/languages.svg"
-  />
-
+  <img align="center" src="https://raw.githubusercontent.com/Sarthak-Bhagat2006/README-Stats/master/generated/overview.svg"/>
+  <img align="center" src="https://raw.githubusercontent.com/Sarthak-Bhagat2006/README-Stats/master/generated/languages.svg"/>
   <br />
-
-  <!-- LeetCode -->
-  <img
-    align="center"
-    src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=wtf&font=Fira+Code&ext=heatmap"
-    height="220"
-  />
-  
+  <img align="center" src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=wtf&font=Fira+Code&ext=heatmap" height="220"/>
 </p>
 
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="footergif" align=center>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="footergif"/>
 </p>
 
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=Sarthak-Bhagat2006&style=for-the-badge&color=343434"/>
 </p>
+
