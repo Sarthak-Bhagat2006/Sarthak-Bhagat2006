@@ -186,7 +186,6 @@ Connection: keep-alive
 
 ### My Stats
 
-[![An image of @satyamvyas04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamvyas04)](https://holopin.io/@satyamvyas04)
 
 <p align="center">
   <!-- GitHub Overview -->
