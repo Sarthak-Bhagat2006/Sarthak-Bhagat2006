@@ -1,25 +1,221 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sarthak
-================================================================================================================================
+```http
+HTTP/1.1 200 OK
+Date: Thu, 08 Jan 2026 01:44:00 GMT
+Server: Pune/1.0 (Ubuntu)
+Content-Type: application/json
+Connection: keep-alive
 
-Web Developer
--------------
+{
+  "developer": {
+    "name": "Sarthak Bhagat",
+    "role": "Full Stack Web Developer",
+    "location": "Pune, India",
+    "education": "ECE Undergraduate",
+    "stack": "MERN",
+    "focus": [
+      "Building real-world web applications",
+      "Writing clean, scalable code",
+      "Problem solving"
+    ],
+    "interests": [
+      "Web Development",
+      "System Design Basics",
+      "Learning by Building Projects"
+    ],
+    "education": {
+      "degree": "B.E in Electronics & Computer Engineering",
+      "institute": "PES MCOE, Pune",
+      "cgpa": "8.67"
+    }
+  }
+}
+```
 
-Currently, I am focusing on full-stack development using MongoDB, Express.js, React.js, and Node.js, along with learning real-time technologies like Socket.io. I believe in learning by building, which is why I actively work on personal and collaborative projects that solve genuine problems.
+<h3 align="right">Tech Stack</h3>
+<table width="100%">
+	<thead>
+		<tr>
+			<th align="left" width="25%">Domain</th>
+			<th align="left" width="25%">Specialization</th>
+			<th align="right">Technologies</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><b>Core Programming</b></td>
+			<td>Problem Solving</td>
+			<td align="right">
+				<img
+					src="https://img.shields.io/badge/Java-151b23?style=for-the-badge&logo=openjdk&logoColor=ED8B00"
+					alt="Java"
+				/>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3"><b>Frontend Development</b></td>
+			<td>Frameworks & State</td>
+			<td align="right">
+				<img
+          src="https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=white"
+          alt="EJS"
+          />
+				<img
+					src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"
+					alt="React"
+				/>
+				<img
+					src="https://img.shields.io/badge/React_Router-0d1117?style=for-the-badge&logo=react-router"
+					alt="React Router"
+				/>
+			</td>
+		</tr>
+		<tr>
+			<td>UI Libraries & Styling</td>
+			<td align="right">
+        <img
+          src="https://img.shields.io/badge/CSS3-151b23?style=for-the-badge&logo=css3&logoColor=1572B6"
+          alt="CSS3"
+        />
+				<img
+					src="https://img.shields.io/badge/TailwindCSS-151b23?style=for-the-badge&logo=tailwindcss"
+					alt="Tailwind CSS"
+				/>
+				<img
+					src="https://img.shields.io/badge/MUI-151b23?style=for-the-badge&logo=mui"
+					alt="MUI"
+				/>
+				<img
+					src="https://img.shields.io/badge/bootstrap-151b23?style=for-the-badge&logo=bootstrap"
+					alt="Bootstrap"
+				/>
+			</td>
+		</tr>
+		<tr>
+			<td>Animation</td>
+			<td align="right">
+				<img
+          src="https://img.shields.io/badge/Chart.js-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384"
+          alt="Chart.js"
+          />
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3"><b>Backend & Data</b></td>
+			<td>Frameworks & APIs</td>
+			<td align="right">
+				<img
+					src="https://img.shields.io/badge/Node.js-151b23?style=for-the-badge&logo=node.js"
+					alt="Node.js"
+				/>
+				<img
+					src="https://img.shields.io/badge/Express.js-151b23.svg?style=for-the-badge&logo=express"
+					alt="Express.js"
+				/>
+			</td>
+		</tr>
+		<tr>
+			<td>Databases and ORMs</td>
+			<td align="right">
+				<img
+					src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql"
+					alt="PostgreSQL"
+				/>
+				<img
+					src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb"
+					alt="MongoDB"
+				/>
+				<img
+					src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql"
+					alt="MySQL"
+				/>
+			</td>
+		</tr>
+		<tr>
+			<td><b>Authentication</b></td>
+			<td>Identity Management</td>
+			<td align="right">
+				<img
+					src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=JSON%20web%20tokens"
+					alt="JWT"
+				/>
+				<img
+        src="https://img.shields.io/badge/Passport.js-0d1117?style=for-the-badge&logo=passport&logoColor=34E27A"
+        alt="Passport.js"
+        />
+			</td>
+		</tr>
+			<td>Deployment</td>
+			<td align="right">
+				<img
+					src="https://img.shields.io/badge/Netlify-0d1117.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
+					alt="Netlify"
+				/>
+				<img
+					src="https://img.shields.io/badge/Render-0d1117.svg?style=for-the-badge&logo=render&logoColor=white"
+					alt="Render"
+				/>
+				<img
+					src="https://img.shields.io/badge/GitHub%20Pages-0d1117?style=for-the-badge&logo=github&logoColor=white"
+					alt="GitHub Pages"
+				/>
+			</td>
+		</tr>
+		<tr>
+			<td>API & Dev Tools</td>
+			<td align="right">
+				<img
+					src="https://img.shields.io/badge/Postman-151b23?style=for-the-badge&logo=postman"
+					alt="Postman"
+				/>
+				<img
+  src="https://img.shields.io/badge/Finnhub-151b23?style=for-the-badge&logoColor=00E676"
+  alt="Finnhub"
+/>
+				<img
+  src="https://img.shields.io/badge/Mapbox-151b23?style=for-the-badge&logo=mapbox&logoColor=white"
+  alt="Mapbox"
+/>
+				<img
+  src="https://img.shields.io/badge/Gemma%20AI-151b23?style=for-the-badge&logo=google&logoColor=white"
+  alt="Gemma AI"
+ />
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-* 🌍  I'm based in Pune, Maharashtra
-* 🖥️  See my portfolio at [Saarthi](http://saarthi-ai-assistant-frontend.vercel.app/)
-* ✉️  You can contact me at [sarthakbhagat2006@gmail.com](mailto:sarthakbhagat2006@gmail.com)
-* 🧠  I'm currently learning Docker
+### My Stats
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
+[![An image of @satyamvyas04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamvyas04)](https://holopin.io/@satyamvyas04)
+
+<p align="center">
+  <!-- GitHub Overview -->
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/Sarthak-Bhagat2006/README-Stats/master/generated/overview.svg"
+  />
+
+  <!-- GitHub Languages -->
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/Sarthak-Bhagat2006/README-Stats/master/generated/languages.svg"
+  />
+
+  <br />
+
+  <!-- LeetCode -->
+  <img
+    align="center"
+    src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=wtf&font=Fira+Code&ext=heatmap"
+    height="220"
+  />
+  
 </p>
 
-### Socials
+<p align='center'>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="footergif" align=center>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Sarthak-Bhagat2006" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sarthak-bhagat-8984b9279/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Sarthak-Bhagat2006/ChargeHub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-Bhagat2006&repo=ChargeHub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sarthak-Bhagat2006/Saarthi--AI-assistant-Backend- " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-Bhagat2006&repo=Saarthi--AI-assistant-Backend- &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=Sarthak-Bhagat2006&style=for-the-badge&color=343434"/>
+</p>
