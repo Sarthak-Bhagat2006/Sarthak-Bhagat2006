@@ -96,6 +96,7 @@ Connection: keep-alive
     </tr>
     <tr>
       <td>Deployment</td>
+      <td></td>
       <td align="right">
         <img src="https://img.shields.io/badge/Netlify-0d1117.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
         <img src="https://img.shields.io/badge/Render-0d1117.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
@@ -104,6 +105,7 @@ Connection: keep-alive
     </tr>
     <tr>
       <td>API & Dev Tools</td>
+      <td></td>
       <td align="right">
         <img src="https://img.shields.io/badge/Postman-151b23?style=for-the-badge&logo=postman" alt="Postman"/>
         <img src="https://img.shields.io/badge/Finnhub-151b23?style=for-the-badge&logoColor=00E676" alt="Finnhub"/>
