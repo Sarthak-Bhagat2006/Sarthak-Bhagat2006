@@ -117,9 +117,6 @@ Connection: keep-alive
 ### My Stats
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/Sarthak-Bhagat2006/README-Stats/master/generated/overview.svg"/>
-  <img align="center" src="https://raw.githubusercontent.com/Sarthak-Bhagat2006/README-Stats/master/generated/languages.svg"/>
-  <br />
   <img align="center" src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=wtf&font=Fira+Code&ext=heatmap" height="220"/>
 </p>
 
