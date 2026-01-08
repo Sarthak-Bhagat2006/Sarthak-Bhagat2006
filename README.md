@@ -119,7 +119,7 @@ Connection: keep-alive
 <p align="center">
   <img
     align="center"
-    src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=wtf&font=Fira+Code&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=dark&font=Fira+Code&ext=heatmap"
     height="220"
   />
 </p>
