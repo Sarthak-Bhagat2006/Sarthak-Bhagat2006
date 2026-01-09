@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sarthak+Bhagat;Full+Stack+Web+Developer;Learning+by+Building+Projects" />
+</p>
+
 ```http
 HTTP/1.1 200 OK
 Date: Thu, 08 Jan 2026 01:44:00 GMT
