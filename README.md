@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sarthak+Bhagat;Full+Stack+Web+Developer;Learning+by+Building+Projects" />
 </p>
 
+## Open Source Contributions
+
+-  **Lokus AI** – Improved error handling & user feedback  
+   PR #309: https://github.com/lokus-ai/lokus/pull/309  
+   PR #310: https://github.com/lokus-ai/lokus/pull/310  
+
 ```http
 HTTP/1.1 200 OK
 Date: Thu, 08 Jan 2026 01:44:00 GMT
