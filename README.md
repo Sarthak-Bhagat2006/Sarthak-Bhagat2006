@@ -128,13 +128,13 @@ Connection: keep-alive
 ### My Stats
 
 <p align="center">
-  <img
-    src="https://leetcode-stats-six.vercel.app/?username=SarthakBhagt2006"
-  />
+  <img src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=dark&font=Nunito&ext=heatmap" height="200" width="300" alt="LeetCard" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarthak-Bhagat2006&show_icons=true&locale=en&layout=compact&theme=synthwave" height="200" width="300" alt="GitHub Stats" />
 </p>
 
 <p align='center'>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="footergif"/>
+ 
 </p>
 
 <p align='center'>
