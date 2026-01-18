@@ -53,7 +53,8 @@ Connection: keep-alive
       <td><b>Core Programming</b></td>
       <td>Problem Solving</td>
       <td align="right">
-        <img src="https://img.shields.io/badge/Java-151b23?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+       <img src="https://img.shields.io/badge/Java-151b23?style=for-the-badge&logo=java&logoColor=ED8B00" alt="Java"/>
+      <img src="https://img.shields.io/badge/JavaScript-151b23?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
       </td>
     </tr>
     <tr>
