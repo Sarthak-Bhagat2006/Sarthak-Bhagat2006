@@ -127,10 +127,13 @@ Connection: keep-alive
 </table>
 
 ### My Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=dark&font=Nunito&ext=heatmap" height="200" width="300" alt="LeetCard" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarthak-Bhagat2006&show_icons=true&locale=en&layout=compact&theme=synthwave" height="200" width="300" alt="GitHub Stats" />
+  <img width="400"  height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarthak-Bhagat2006&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarthak-Bhagat2006&show_icons=true&locale=en&layout=compact&theme=synthwave" height="150" width="300" alt="GitHub Stats" />
+  
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SarthakBhagt2006?theme=dark&font=Nunito&ext=heatmap" height="200" width="600" alt="LeetCard" />
 </p>
 
 <p align='center'>
