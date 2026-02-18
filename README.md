@@ -37,7 +37,11 @@ Connection: keep-alive
 
 -  **Lokus AI** – Improved error handling & user feedback  
    PR #309: https://github.com/lokus-ai/lokus/pull/309  
-   PR #310: https://github.com/lokus-ai/lokus/pull/310  
+   PR #310: https://github.com/lokus-ai/lokus/pull/310
+   
+-  **csf_profile**
+   
+   PR #83: https://github.com/CPAtoCybersecurity/csf_profile/pull/83 
 
 <h3 align="left">Tech Stack</h3>
 <table width="100%">
