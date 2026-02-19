@@ -39,7 +39,7 @@ Connection: keep-alive
    PR #309: https://github.com/lokus-ai/lokus/pull/309  
    PR #310: https://github.com/lokus-ai/lokus/pull/310
    
--  **csf_profile**
+-  **CPA to Cybersecurity**
    
    PR #83: https://github.com/CPAtoCybersecurity/csf_profile/pull/83 
 
