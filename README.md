@@ -35,8 +35,12 @@ Connection: keep-alive
 ```
 ## Open Source Contributions
 
--  **Lokus AI** – Improved error handling & user feedback  
-   PR #309: https://github.com/lokus-ai/lokus/pull/309  
+-  **Lokus AI** –
+  
+   PR #414: https://github.com/lokus-ai/lokus/pull/414
+   
+   PR #309: https://github.com/lokus-ai/lokus/pull/309
+   
    PR #310: https://github.com/lokus-ai/lokus/pull/310
    
 -  **CPA to Cybersecurity**
