@@ -45,7 +45,9 @@ Connection: keep-alive
    
 -  **CPA to Cybersecurity**
    
-   PR #83: https://github.com/CPAtoCybersecurity/csf_profile/pull/83 
+   PR #83: https://github.com/CPAtoCybersecurity/csf_profile/pull/83
+   
+   PR #88: https://github.com/CPAtoCybersecurity/csf_profile/pull/88
 
 <h3 align="left">Tech Stack</h3>
 <table width="100%">
