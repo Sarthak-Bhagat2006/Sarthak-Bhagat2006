@@ -35,19 +35,29 @@ Connection: keep-alive
 ```
 ## Open Source Contributions
 
--  **Lokus AI** –
-  
-   PR #414: https://github.com/lokus-ai/lokus/pull/414
-   
-   PR #309: https://github.com/lokus-ai/lokus/pull/309
-   
-   PR #310: https://github.com/lokus-ai/lokus/pull/310
-   
--  **CPA to Cybersecurity**
-   
-   PR #83: https://github.com/CPAtoCybersecurity/csf_profile/pull/83
-   
-   PR #88: https://github.com/CPAtoCybersecurity/csf_profile/pull/88
+### React Bits (41k⭐)
+
+Accessibility-focused contributions to React Bits components.
+
+- **CircularGallery** — Keyboard Navigation Support ([#982](https://github.com/DavidHDev/react-bits/pull/982))
+- **Dock** — Keyboard Navigation Support ([#986](https://github.com/DavidHDev/react-bits/pull/986))
+- Added keyboard accessibility, focus management, and ARIA support for interactive components.
+
+### Lokus AI (<1k⭐)
+
+Frontend & Product Improvements
+
+- **fix(mobile): make tab close button always visible on touch devices** ([#414](https://github.com/lokus-ai/lokus/pull/414))
+- **fix: improve error handling and feedback in InFileSearch** ([#309](https://github.com/lokus-ai/lokus/pull/309))
+- **fix: improve error feedback in KanbanBoard** ([#310](https://github.com/lokus-ai/lokus/pull/310))
+
+### CPA to Cybersecurity (<1k⭐)
+
+Security Improvements
+
+- **fix(security): prevent detailed error message exposure in Settings page** ([#83](https://github.com/CPAtoCybersecurity/csf_profile/pull/83))
+- **fix: sanitise error messages** ([#88](https://github.com/CPAtoCybersecurity/csf_profile/pull/88))
+
 
 <h3 align="left">Tech Stack</h3>
 <table width="100%">
