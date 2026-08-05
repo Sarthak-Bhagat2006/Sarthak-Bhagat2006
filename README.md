@@ -35,7 +35,7 @@ Connection: keep-alive
 ```
 ## Open Source Contributions
 
-### React Bits (41k⭐)
+### React Bits (41k Star)
 
 Accessibility-focused contributions to React Bits components.
 
@@ -43,7 +43,7 @@ Accessibility-focused contributions to React Bits components.
 - **Dock** — Keyboard Navigation Support ([#986](https://github.com/DavidHDev/react-bits/pull/986))
 - Added keyboard accessibility, focus management, and ARIA support for interactive components.
 
-### Lokus AI (<1k⭐)
+### Lokus AI (<1k Star)
 
 Frontend & Product Improvements
 
@@ -51,7 +51,7 @@ Frontend & Product Improvements
 - **fix: improve error handling and feedback in InFileSearch** ([#309](https://github.com/lokus-ai/lokus/pull/309))
 - **fix: improve error feedback in KanbanBoard** ([#310](https://github.com/lokus-ai/lokus/pull/310))
 
-### CPA to Cybersecurity (<1k⭐)
+### CPA to Cybersecurity (<1k Star)
 
 Security Improvements
 
